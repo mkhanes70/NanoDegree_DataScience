@@ -1,5 +1,6 @@
 # Seattle Airbnb Data Analysis Project 1
 This sheet is a part of the Udacity data science nanodegree course, I have analyzed the Airbnb Seattle dataset of 2016.
+For detailed data analysis report, please visit https://mkhanes.medium.com/airbnb-seattle-project-a-data-analysis-case-study-ed292c33423.
 ### Table of Contents
 
 1. The Python Packages That I Have Used
